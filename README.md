@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="center">
+  🇹🇷 <a href="README.tr.md">Türkçe</a> |
+  🇬🇧 English
+</p>
 
-<!--
-**embeddedTR/embeddedTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# embeddedTR 🇹🇷
 
-Here are some ideas to get you started:
+A community-driven platform for embedded systems developers in Turkey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About
+
+**embeddedTR** is a community where embedded engineers can:
+
+- Share projects  
+- Write technical articles  
+- Ask and answer questions  
+- Learn and grow together  
+
+---
+
+## 🎯 Vision
+
+To build the largest embedded systems community in Turkey and connect engineers, students, and enthusiasts under one platform.
+
+---
+
+## 🛠️ What we plan
+
+- 📚 Technical blog platform  
+- 💬 Q&A / forum system  
+- 🔧 Open-source embedded projects  
+- 📦 Libraries and drivers (STM32, ESP32, etc.)  
+
+---
+
+## 🤝 Contributing
+
+We welcome everyone interested in embedded systems.
+
+Feel free to contribute, share your knowledge, and be part of the community.
+
+---
+
+## ⭐ Stay tuned
+
+This project is just getting started 🚀
