@@ -1,48 +1,50 @@
 <p align="center">
-  🇹🇷 <a href="README.tr.md">Türkçe</a> |
-  🇬🇧 English
+  🇹🇷 Türkçe |
+  🇬🇧 <a href="README.md">English</a>
 </p>
 
 # embeddedTR 🇹🇷
 
-A community-driven platform for embedded systems developers in Turkey.
+Türkiye’deki gömülü sistem geliştiricileri için topluluk odaklı bir platform.
 
 ---
 
-## 🚀 About
+## 🚀 Hakkında
 
-**embeddedTR** is a community where embedded engineers can:
+**embeddedTR**, gömülü sistem mühendislerinin:
 
-- Share projects  
-- Write technical articles  
-- Ask and answer questions  
-- Learn and grow together  
+- Projelerini paylaşabileceği  
+- Teknik yazılar yazabileceği  
+- Soru sorup cevaplayabileceği  
+- Birlikte öğrenip gelişebileceği  
 
----
-
-## 🎯 Vision
-
-To build the largest embedded systems community in Turkey and connect engineers, students, and enthusiasts under one platform.
+bir topluluktur.
 
 ---
 
-## 🛠️ What we plan
+## 🎯 Vizyon
 
-- 📚 Technical blog platform  
-- 💬 Q&A / forum system  
-- 🔧 Open-source embedded projects  
-- 📦 Libraries and drivers (STM32, ESP32, etc.)  
+Türkiye’nin en büyük gömülü sistem topluluğunu oluşturmak ve mühendisleri, öğrencileri ve meraklıları tek bir platformda buluşturmak.
 
 ---
 
-## 🤝 Contributing
+## 🛠️ Planlarımız
 
-We welcome everyone interested in embedded systems.
-
-Feel free to contribute, share your knowledge, and be part of the community.
+- 📚 Teknik blog platformu  
+- 💬 Soru-cevap / forum sistemi  
+- 🔧 Açık kaynak gömülü sistem projeleri  
+- 📦 STM32, ESP32 vb. kütüphane ve sürücüler  
 
 ---
 
-## ⭐ Stay tuned
+## 🤝 Katkıda Bulunma
 
-This project is just getting started 🚀
+Gömülü sistemlere ilgi duyan herkesi topluluğumuza bekliyoruz.
+
+Katkıda bulunabilir, bilginizi paylaşabilir ve topluluğun bir parçası olabilirsiniz.
+
+---
+
+## ⭐ Takipte kal
+
+Bu proje henüz başlangıç aşamasında 🚀
