@@ -1,6 +1,6 @@
 <p align="center">
   🇹🇷 Türkçe |
-  🇬🇧 <a href="README.md">English</a>
+  🇬🇧 <a href="README.en.md">English</a>
 </p>
 
 # embeddedTR 🇹🇷
