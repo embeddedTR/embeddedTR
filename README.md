@@ -3,11 +3,13 @@
   🇬🇧 <a href="README.en.md">English</a>
 </p>
 
-# embeddedTR 🇹🇷
-
+<div align="center">
+<td><a href="https://github.com/embeddedTR"><img src="./assets/__logo.png"></a></td>
+</div>
+<div align="center">
 Türkiye’deki gömülü sistem geliştiricileri için topluluk odaklı bir platform.
+</div>
 
----
 
 ## 🚀 Hakkında
 
