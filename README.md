@@ -54,9 +54,11 @@ Türkiye’nin en büyük gömülü sistem topluluğunu oluşturmak ve mühendis
 
 ## 🤝 Katkıda Bulunma
 
-Gömülü sistemlere ilgi duyan herkesi topluluğumuza bekliyoruz.
+Katkıda bulunabilir, bilginizi paylaşabilir ve topluluğun bir parçası olabilirsiniz. Projemize anlamlı katkılarda bulunan dostlarımıza teşekkür etmek amacıyla küçük sürpriz hediyeler gönderiyoruz 🎁🎁
 
-Katkıda bulunabilir, bilginizi paylaşabilir ve topluluğun bir parçası olabilirsiniz.
+<div align="center">
+<td><a href="https://github.com/embeddedTR"><img src="./assets/__tshirt.png"></a></td>
+</div>
 
 ---
 
