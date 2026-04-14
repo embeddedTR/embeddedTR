@@ -36,6 +36,19 @@ Türkiye’nin en büyük gömülü sistem topluluğunu oluşturmak ve mühendis
 - 📦 STM32, ESP32 vb. kütüphane ve sürücüler  
 
 ---
+<div align="center">
+<table>
+<tr>
+<td><a href="https://github.com/embeddedTR"><img src="./assets/__community.png"></a></td>
+<td><a href="https://github.com/embeddedTR/embeddedTR-roadmap"><img src="./assets/__roadmaps.png"></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/embeddedTR/architecture"><img src="./assets/__architecture.png"></a></td>
+<td><a href="https://github.com/embeddedTR"><img src="./assets/__education.png"></a></td>
+</tr>
+</table>
+</div>
+
 
 ## 🤝 Katkıda Bulunma
 
