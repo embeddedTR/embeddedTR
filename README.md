@@ -65,3 +65,7 @@ Katkıda bulunabilir, bilginizi paylaşabilir ve topluluğun bir parçası olabi
 ## ⭐ Takipte kal
 
 Bu proje henüz başlangıç aşamasında 🚀
+- **⭐ Star** — Projeyi beğendiysen yıldız bırak, bizi motive eder
+- **👁️ Watch** — Yeni gelişmelerden haberdar olmak için takibe al
+- **🔔 Follow** — [embeddedTR](https://github.com/embeddedTR) organizasyonunu takip et
+- **🤝 Katkıda Bulun** — PR aç, issue oluştur, fikir paylaş
