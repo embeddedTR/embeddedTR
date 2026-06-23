@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-<td><a href="https://github.com/embeddedTR"><img src="./assets/__logo.png"></a></td>
+<td><a href="https://embeddedtr.com"><img src="./assets/__logo.png"></a></td>
 </div>
 <div align="center">
 Türkiye’deki gömülü sistem geliştiricileri için topluluk odaklı bir platform.
